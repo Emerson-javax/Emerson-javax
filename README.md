@@ -2,7 +2,7 @@
 
 
 - 🛬 I am currently working as a ramp assistant (aircraft loading and unloading).
-- 🖥️ I’m currently learning typescript.
+- 🖥️ I’m currently learning typescript and Java.
 - 📫 How to reach me: emersonhenriquefelix2002@gmail.com
 - 😄 Pronouns: Ele/Dele
 
