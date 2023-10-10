@@ -1,7 +1,7 @@
 ### Hi I'm Emerson Henrique 👋
 
 
-- 🛬 I am currently working as a ramp assistant (aircraft loading and unloading).
+- 💻  I currently work as a Junior Developer at MV
 - 🖥️ I’m currently learning typescript and Java.
 - 📫 How to reach me: emersonhenriquefelix2002@gmail.com
 - 😄 Pronouns: Ele/Dele
