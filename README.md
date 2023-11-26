@@ -33,9 +33,9 @@
   <a href = "mailto:emersonhenriquefelix2002@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/emersonhenr/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-  uses: emerson-javax
-  with:
-  github_user_name: ${{ github.repository_owner }}
+  - uses: emerson-javax
+    with:
+    github_user_name: ${{ github.repository_owner }}
   outputs: |
     dist/github-snake.svg
     dist/github-snake-dark.svg?palette=github-dark
