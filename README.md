@@ -36,7 +36,7 @@
   <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/emerson-javax/snk/output/github-contribution-grid-snake-dark.svg"
+    srcset="(https://github.com/emerson-javax/emerson-javax/blob/output/github-contribution-grid-snake.svg)"
   />
   <img
     alt="github contribution grid snake animation"
