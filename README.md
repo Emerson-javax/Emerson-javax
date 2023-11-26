@@ -33,6 +33,14 @@
   <a href = "mailto:emersonhenriquefelix2002@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/emersonhenr/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
+- uses: Platane/snk@v3
+  with:
+    github_user_name: ${{ emerson-javax }}
+    outputs: |
+      dist/github-snake.svg
+      dist/github-snake-dark.svg?palette=github-dark
+      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+
   <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -40,7 +48,7 @@
   />
   <img
     alt="github contribution grid snake animation"
-    src="[https://github.com/emerson-javax/emerson-javax/blob/output/github-contribution-grid-snake.svg]"
+    src="[https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg]"
   />
 </picture>
 
